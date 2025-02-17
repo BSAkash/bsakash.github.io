@@ -6,7 +6,7 @@ subtitle: <a href='https://cs.ucdavis.edu/graduate/our-programs/phd-degree'>PhD 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> UC Davis, California 95616</p>
@@ -18,14 +18,14 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my slice of the internet! I’m Akash, a wanderer through the realms of Machine Learning, Natural Language Processing and HCI, currently docking my curiosity at UC Davis as a PhD student under the guidance of [Prof. Setareh Rafatirad](https://web.cs.ucdavis.edu/~srafatir/). My academic journey started oceans away as an undergrad at BITS Pilani in India, where I not only conquered coursework but also discovered my passions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+When I’m not decoding the complexities of ML algorithms or exploring the nuances of human-computer interaction, you can find me riding horses across scenic trails, sketching the world in graphite, or behind the camera scripting and directing short films. Each interest crafts a unique lens through which I see problems as puzzles waiting to be solved.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dive into my portfolio to see where science meets creativity, where data meets storytelling, and where every line of code tells a story.
