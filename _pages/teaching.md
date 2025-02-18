@@ -2,11 +2,25 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Overview of my teaching experiences across various institutions and roles.
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+### BITS PILANI
+- **Fall Semester 2021**: Served as a Teaching Assistant for Human-Computer Interaction (HCI). Facilitated lectures and assisted in designing course assessments.
+
+### PepsiCo
+- **2021-2022**: Taught AI and ML as part of the PepsiCo AI ML Club. Designed and conducted workshops and training sessions to enhance AI/ML skills across the team.
+- **Mentorship**: Acted as a Machine Learning mentor for colleagues, providing guidance on various projects and helping them apply ML techniques in real-world applications.
+
+### University of California, Davis
+- **Teaching Assistant**: Over six quarters, TA'ed for several computer science courses, demonstrating a broad and versatile teaching portfolio. Courses include:
+  - **Discrete Math for CS**: Assisted in teaching foundational concepts in discrete mathematics critical for computer science.
+  - **ML for Computational Chemistry**: Helped students apply ML computational methods to solve chemical problems.
+  - **NLP for Genetics**: Introduced techniques for applying Natural Language Processing in genetic research.
+  - **Graph Theory for Social Communication Networks**: Taught applications of graph theory in analyzing social communication networks.
+
+These experiences highlight my ability to teach and mentor across a variety of settings and subjects, enhancing student understanding and fostering academic growth.
