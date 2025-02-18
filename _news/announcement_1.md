@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-06-01 08:00:00-0700
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Joined the Responsible Technologies Research Group, focused on developing ethical AI and machine learning solutions to enhance transparency and reliability in technology.
