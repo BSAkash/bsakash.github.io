@@ -196,6 +196,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _posts
 keep_files:
   - CNAME
   - .nojekyll
@@ -269,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Bonagiri]
-  first_name: [Sailendra Akash]
+  last_name: [Bonagiri, BS]
+  first_name: [Sailendra Akash, Akash]
 
   style: apa
   locale: en
