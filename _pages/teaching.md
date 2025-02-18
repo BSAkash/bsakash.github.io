@@ -12,7 +12,8 @@ nav_order: 4
   - **Discrete Math for CS**: Assisted in teaching foundational concepts in discrete mathematics for computer science.
   - **ML for Computational Chemistry**: Helped students apply ML computational methods in chemistry applications.
   - **NLP for Genetics**: Introduced techniques for applying Natural Language Processing in genetic research.
-  - **Graph Theory**: Taught applications of graph theory in analyzing social communication networks.
+  - **Graph Theory**: Instructed applications of graph theory in analyzing social communication networks.
+  - **Calculus for ML**: Taught calculus principles essential for understanding and applying machine learning algorithms.
 
 ### PepsiCo (2021-2022)
 - **2021-2022**: Taught AI and ML as part of the PepsiCo AI ML Club. Designed and conducted workshops and training sessions to enhance AI/ML skills across the team.
