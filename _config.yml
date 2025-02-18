@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Bonagiri, BS]
-  first_name: [Sailendra Akash, Akash]
+  last_name: [Bonagiri, BS, Akash]
+  first_name: [Sailendra Akash, Akash, BS]
 
   style: apa
   locale: en
