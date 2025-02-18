@@ -395,7 +395,7 @@ ninja.data = [{
           title: 'Developed HanumaGPT, enhancing the nanoGPT architecture significantly by reducing computational complexity and improving...',
           description: "",
           section: "News",},{id: "news-started-phd-in-cs-machine-learning-natural-language-processing-at-university-of-california-davis-under-the-guidance-of-dr-setareh-rafatirad",
-          title: 'Started PhD in CS(Machine Learning, Natural Language Processing) at University of California, Davis...',
+          title: 'Started PhD in CS (Machine Learning, Natural Language Processing) at University of California,...',
           description: "",
           section: "News",},{id: "news-submitted-towards-safer-social-media-platforms-scalable-and-performant-few-shot-harmful-content-moderation-using-large-language-models-to-aaai-icwsm-2025",
           title: 'Submitted Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation...',
