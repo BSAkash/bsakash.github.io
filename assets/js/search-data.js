@@ -70,9 +70,9 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-towards-safer-social-media-platforms-scalable-and-performant-few-shot-harmful-content-moderation-using-large-language-models-to-aaai-icwsm-2025",
           title: 'Submitted Towards Safer Social Media Platforms: Scalable and Performant Few-Shot Harmful Content Moderation...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-hanumagpt",
+          title: 'HanumaGPT',
+          description: "Enhanced nanoGPT architecture with optimized key/query vector sizes, sliding window attention, register tokens, advanced MLP layers, and alternative Softmax approximations, improving efficiency and performance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
