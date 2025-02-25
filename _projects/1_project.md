@@ -4,7 +4,7 @@ title: HanumaGPT
 description: Enhanced nanoGPT architecture with optimized key/query vector sizes, sliding window attention, register tokens, advanced MLP layers, and alternative Softmax approximations, improving efficiency and performance.
 img: assets/img/hanumagpt.jpg  # Replace with the correct image path
 importance: 1
-category: work
+# category: work
 related_publications: false
 ---
 
