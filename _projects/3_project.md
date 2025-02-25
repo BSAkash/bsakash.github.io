@@ -5,7 +5,7 @@ description: A web application for detecting fake news in Hindi using NLP techni
 img: assets/img/hindifakenews.jpg  # Ensure this is the correct path to the uploaded image
 importance: 3
 # category: work
-giscus_comments: true
+# giscus_comments: true
 ---
 
 ## Aletheia - Hindi Fake News Detection System
