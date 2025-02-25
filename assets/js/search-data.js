@@ -80,9 +80,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-aletheia-hindi-fake-news-detection-system",
+          title: 'Aletheia - Hindi Fake News Detection System',
+          description: "A web application for detecting fake news in Hindi using NLP techniques.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
