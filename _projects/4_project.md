@@ -22,7 +22,7 @@ category: Machine Learning
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid 
-      path="assets/img/medical_expert_system.png" 
+      path="assets/img/medical_expert_system.jpg" 
       title="Medical Expert System Dashboard" 
       class="img-fluid rounded z-depth-1" 
     %}

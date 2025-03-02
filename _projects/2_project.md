@@ -1,12 +1,12 @@
 ---
 layout: page
-title: BnBGenie: Unlocking Airbnb with EDA & ML Insights
+title: BnBGenie - Unlocking Airbnb with EDA & ML Insights
 description: Conducted EDA and applied ML models to uncover key factors influencing Airbnb listings, optimal pricing strategies, and demand trends.
 img: assets/img/bnbgenie.jpg  # Update this with the correct image path
 importance: 2
 category: Machine Learning
 # giscus_comments: true
----
+---     
 
 ## BnBGenie: Unlocking Airbnb with EDA & ML Insights
 
