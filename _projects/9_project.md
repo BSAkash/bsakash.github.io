@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimal Map Routing: A-Star Pathfinding Algorithm
+title: Optimal Map Routing - A-Star Pathfinding Algorithm
 description: A map-based routing system that calculates the optimal path between two locations using the A-Star algorithm and Google Maps API.
 img: assets/img/optimal_map_routing.jpg  # Update this with the correct image path
 importance: 9

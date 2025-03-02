@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AiBot: AI Chatbot for Course Selection
+title: AiBot - AI Chatbot for Course Selection
 description: An intelligent chatbot designed to assist students in selecting courses based on interests, market trends, and university-specific recommendations.
 img: assets/img/aibot.jpg  # Update this with the correct image path
 importance: 6

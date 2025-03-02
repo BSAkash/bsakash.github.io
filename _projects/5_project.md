@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NLP4Gov: AI-Powered Computational Policy Analysis
+title: NLP4Gov - AI-Powered Computational Policy Analysis
 description: A scalable NLP-based library for empirical policy analysis, developed by the C² Lab at UC Davis. It features pipelines and applications for processing policy documents at scale.
 img: assets/img/nlp4gov.jpg  # Update this with the correct image path
 importance: 2
