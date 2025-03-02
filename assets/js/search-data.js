@@ -90,29 +90,29 @@ ninja.data = [{
           description: "An AI-powered expert system for diagnosing diseases based on symptoms.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-nlp4gov-ai-powered-computational-policy-analysis",
+          title: 'NLP4Gov - AI-Powered Computational Policy Analysis',
+          description: "A scalable NLP-based library for empirical policy analysis, developed by the C² Lab at UC Davis. It features pipelines and applications for processing policy documents at scale.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-aibot-ai-chatbot-for-course-selection",
+          title: 'AiBot - AI Chatbot for Course Selection',
+          description: "An intelligent chatbot designed to assist students in selecting courses based on interests, market trends, and university-specific recommendations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-nft-marketplace-build-your-own-from-scratch",
+          title: 'NFT Marketplace - Build Your Own from Scratch',
+          description: "An end-to-end NFT marketplace tutorial project leveraging JavaScript, Solidity, and blockchain transactions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-pygame-interactive-computer-vision-games",
+          title: 'PyGame - Interactive Computer Vision Games',
+          description: "A collection of interactive games developed using OpenCV and Pygame, integrating motion tracking and real-time gameplay mechanics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-optimal-map-routing-a-star-pathfinding-algorithm",
+          title: 'Optimal Map Routing - A-Star Pathfinding Algorithm',
+          description: "A map-based routing system that calculates the optimal path between two locations using the A-Star algorithm and Google Maps API.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
