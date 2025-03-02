@@ -2,7 +2,7 @@
 layout: page
 title: NFT Marketplace: Build Your Own from Scratch
 description: An end-to-end NFT marketplace tutorial project leveraging JavaScript, Solidity, and blockchain transactions.
-img: assets/img/nft_marketplace.png  # Update this with the correct image path
+img: assets/img/nft_marketplace.jpg  # Update this with the correct image path
 importance: 7
 category: Machine Learning
 # giscus_comments: true
