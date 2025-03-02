@@ -75,9 +75,9 @@ ninja.data = [{
           description: "Enhanced nanoGPT architecture with optimized key/query vector sizes, sliding window attention, register tokens, advanced MLP layers, and alternative Softmax approximations, improving efficiency and performance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-bnbgenie-unlocking-airbnb-with-eda-amp-ml-insights",
+          title: 'BnBGenie - Unlocking Airbnb with EDA &amp;amp; ML Insights',
+          description: "Conducted EDA and applied ML models to uncover key factors influencing Airbnb listings, optimal pricing strategies, and demand trends.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-aletheia-hindi-fake-news-detection-system",
