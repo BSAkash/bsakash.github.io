@@ -3,7 +3,7 @@ layout: page
 title: Medical Expert System
 description: An AI-powered expert system for diagnosing diseases based on symptoms.
 img: assets/img/medical_expert_system.jpg  # Update with the correct image path
-importance: 4
+importance: 5
 category: Machine Learning
 # giscus_comments: true
 ---
