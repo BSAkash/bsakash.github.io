@@ -4,8 +4,8 @@ title: PyGames: Interactive Computer Vision Games
 description: A collection of interactive games developed using OpenCV and Pygame, integrating motion tracking and real-time gameplay mechanics.
 img: assets/img/pygames.png  # Update this with the correct image path
 importance: 8
-category: work
-giscus_comments: true
+category: Machine Learning
+# giscus_comments: true
 ---
 
 ## PyGames: Interactive Computer Vision Games
