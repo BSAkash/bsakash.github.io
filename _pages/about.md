@@ -28,7 +28,7 @@ Namaste!
 
 I’m **Akash**, a wanderer through the realms of **Machine Learning**, **Natural Language Processing** and **Human-AI Interaction**, currently docking my curiosity at **UC Davis** as a **PhD** student. My academic journey started oceans away as an undergrad at BITS Pilani in India, where I not only mastered my coursework but also discovered my passions.
 
-When I’m not decoding the complexities of ML, NLP algorithms or exploring the nuances of human-computer interaction, you can find me riding horses across scenic trails, sketching the world in graphite, or behind the camera scripting and directing short films. Each interest crafts a unique lens through which I see problems as puzzles waiting to be solved.
+When I’m not decoding the complexities of ML, NLP algorithms, you can find me riding horses across scenic trails, sketching the world in graphite, or behind the camera scripting and directing short films. Each interest crafts a unique lens through which I see problems as puzzles waiting to be solved.
 
 Dive into my portfolio to see where science meets creativity, where data meets storytelling, and where every line of code tells a story.
 
