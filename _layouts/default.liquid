@@ -52,5 +52,19 @@
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}
+
+    {% if jekyll.environment == "production" %}
+      <script type="text/javascript">
+        (function() {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = "//clustrmaps.com/map_v2.js?d=iK2EHc8cEvdcy6s9LFE0FLF23dU44vkhWv1hPEIGV2k&cl=ffffff&w=a";
+          s.style.display = "none"; // Hides the script output
+          document.body.appendChild(s);
+        })();
+      </script>
+    {% endif %}
+
   </body>
 </html>

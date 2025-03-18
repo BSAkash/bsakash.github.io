@@ -34,4 +34,4 @@ Dive into my portfolio to see where science meets creativity, where data meets s
 
 <!-- under the guidance of [Prof. Setareh Rafatirad](https://web.cs.ucdavis.edu/~srafatir/) -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iK2EHc8cEvdcy6s9LFE0FLF23dU44vkhWv1hPEIGV2k&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iK2EHc8cEvdcy6s9LFE0FLF23dU44vkhWv1hPEIGV2k&cl=ffffff&w=a"></script> -->
