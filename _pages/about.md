@@ -24,13 +24,21 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Namaste! 
+Namaste!
 
+I’m **Akash**, a PhD student in Computer Science at **UC Davis**, specializing in **Machine Learning**, **Natural Language Processing**, and **Human-AI Interaction**. My research focuses on LLM evaluation, trustworthiness, and multimodal reasoning, with applications in retrieval-based systems, scalable AI architectures, and low resource NLP.
+
+Before my PhD, I completed my undergraduate degree at **BITS Pilani**, where I built a strong foundation in ML and NLP. Later, I worked in the industry as an Applied ML Engineer, building AI-driven solutions at **PepsiCo**; co-building Evalu**AI**tor, a multimodal mock interview platform; and optimizing financial recommendation systems at **Innoviti**. These experiences have shaped my approach to bridging theoretical research with real-world impact.
+
+Beyond research, I’m an explorer at heart—whether it's riding horses, sketching the world in graphite, or writing & directing short films. I see problem-solving as storytelling, where algorithms, data, and creativity intertwine.
+
+<!-- Namaste! 
+g
 I’m **Akash**, a wanderer through the realms of **Machine Learning**, **Natural Language Processing** and **Human-AI Interaction**, currently docking my curiosity at **UC Davis** as a **PhD** student. My academic journey started oceans away as an undergrad at BITS Pilani in India, where I not only mastered my coursework but also discovered my passions.
 
 When I’m not decoding the complexities of ML, NLP algorithms, you can find me riding horses across scenic trails, sketching the world in graphite, or behind the camera scripting and directing short films. Each interest crafts a unique lens through which I see problems as puzzles waiting to be solved.
 
-Dive into my portfolio to see where science meets creativity, where data meets storytelling, and where every line of code tells a story.
+Dive into my portfolio to see where science meets creativity, where data meets storytelling, and where every line of code tells a story. -->
 
 <!-- under the guidance of [Prof. Setareh Rafatirad](https://web.cs.ucdavis.edu/~srafatir/) -->
 
