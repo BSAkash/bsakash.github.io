@@ -26,12 +26,23 @@ announcements:
 
 Namaste!
 
-I’m **Akash**, a PhD student in Computer Science at **UC Davis**, specializing in **Machine Learning**, **Natural Language Processing**, and **Human-AI Interaction**. My research focuses on LLM evaluation, trustworthiness, and multimodal reasoning, with applications in retrieval-based systems, scalable AI architectures, and low resource NLP. Recently, I am exploring Multimodal and Embodied Agents. 
+I’m **Akash**, a PhD student in Computer Science at **UC Davis**, specializing in **Machine Learning**, **Natural Language Processing**, and **Human-AI Interaction**. My research focuses on:
+- **LLM evaluation, trustworthiness, and continual learning**
+- **Multimodal Agents**
+- **Personalized machine learning and retrieval-based systems**
+- **Low-resource NLP and culturally adaptive AI**
 
-Before my PhD, I completed my undergraduate degree at **BITS Pilani**, where I built a strong foundation in ML and NLP. Later, I worked in industry as an Applied ML Engineer, where I developed AI-driven solutions for **PepsiCo**. Co-built Evalu**AI**tor, a multimodal mock interview platform and optimized financial recommendation systems at **Innoviti**.These experiences have shaped my approach to bridging theoretical research with real-world impact.
+Before my PhD, I completed my undergraduate degree at **BITS Pilani**, where I built a strong foundation in ML and NLP. Later, I worked in industry as an Applied ML Engineer, where I developed AI-driven solutions for **PepsiCo**. Co-built Evalu**AI**tor, a multimodal mock interview platform. Optimized financial recommendation systems at **Innoviti**.These experiences have shaped my approach to bridging theoretical research with real-world impact.
 
 Beyond research, I’m an explorer at heart—whether it's riding horses, sketching the world in graphite, or writing & directing short films. I see problem-solving as storytelling, where algorithms, data, and creativity intertwine.
 
+<!-- Namaste!
+
+I’m Akash, a PhD student in Computer Science at UC Davis, specializing in Machine Learning, Natural Language Processing, and Human-AI Interaction. My research focuses on LLM evaluation, trustworthiness, multimodal reasoning, continual learning, and personalized machine learning, with applications in retrieval-based systems, scalable AI architectures, and low-resource NLP. Recently, I’ve also been exploring multimodal and embodied agents to understand how AI can interact meaningfully across contexts and modalities.
+
+Before my PhD, I completed my undergraduate degree at BITS Pilani, where I built a strong foundation in ML and NLP. Later, I worked in industry as an Applied ML Engineer, where I developed AI-driven solutions at PepsiCo, co-built EvaluAItor, a multimodal mock interview platform, and optimized financial recommendation systems at Innoviti. These experiences shaped my approach to bridging theoretical research with real-world impact.
+
+Beyond research, I’m an explorer at heart—whether it's riding horses, sketching the world in graphite, or writing and directing short films. I see problem-solving as a form of storytelling, where algorithms, data, and creativity come together to build meaningful systems. -->
 <!-- Namaste! 
 g
 I’m **Akash**, a wanderer through the realms of **Machine Learning**, **Natural Language Processing** and **Human-AI Interaction**, currently docking my curiosity at **UC Davis** as a **PhD** student. My academic journey started oceans away as an undergrad at BITS Pilani in India, where I not only mastered my coursework but also discovered my passions.
