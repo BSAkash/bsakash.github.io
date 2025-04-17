@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-research-lab",
+          title: "Research Lab",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research_lab/";
+          },
         },{id: "news-joined-the-responsible-technologies-research-group-focused-on-developing-ethical-ai-and-machine-learning-solutions-to-enhance-transparency-and-reliability-in-technology",
           title: 'Joined the Responsible Technologies Research Group, focused on developing ethical AI and machine...',
           description: "",
