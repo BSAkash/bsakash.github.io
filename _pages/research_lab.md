@@ -38,11 +38,11 @@ nav_order: 5
     Low-Resource NLP, Interactive Agents
   </div>
 
-  <div style="text-align: center; width: 200px;">
+  <!-- <div style="text-align: center; width: 200px;">
     <img src="/assets/img/Ishan.JPG" alt="Ishant Gandhi" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
     <strong>Ishant Gandhi</strong><br>
     Trustworthy AI, Human-AI Collaboration
-  </div>
+  </div> -->
 
   <div style="text-align: center; width: 200px;">
     <img src="/assets/img/Winson.jpeg" alt="Winson Yu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
@@ -50,11 +50,11 @@ nav_order: 5
     Personalized Recommendation, Continual Learning
   </div>
 
-  <div style="text-align: center; width: 200px;">
+  <!-- <div style="text-align: center; width: 200px;">
     <img src="/assets/img/Ethan.jpeg" alt="Ethan Hershmann" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
     <strong>Ethan Hershmann</strong><br>
     Data-Centric AI, Model Compression
-  </div>
+  </div> -->
 
   <div style="text-align: center; width: 200px;">
     <img src="/assets/img/Ariana.png" alt="Ariana Smith" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
