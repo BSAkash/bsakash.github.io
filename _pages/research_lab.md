@@ -39,7 +39,7 @@ nav_order: 5
   </div>
 
   <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Kevin.jpg" alt="Kevin Xu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
+    <img src="/assets/img/kevin.jpg" alt="Kevin Xu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
     <strong>Kevin Xu</strong><br>
     Trustworthy AI, Human-AI Collaboration
   </div>
