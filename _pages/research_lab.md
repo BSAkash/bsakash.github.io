@@ -38,11 +38,11 @@ nav_order: 5
     Low-Resource NLP, Interactive Agents
   </div>
 
-  <!-- <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Ishan.JPG" alt="Ishant Gandhi" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Ishant Gandhi</strong><br>
+  <div style="text-align: center; width: 200px;">
+    <img src="/assets/img/Kevin.jpg" alt="Kevin Xu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
+    <strong>Kevin Xu</strong><br>
     Trustworthy AI, Human-AI Collaboration
-  </div> -->
+  </div>
 
   <div style="text-align: center; width: 200px;">
     <img src="/assets/img/Winson.jpeg" alt="Winson Yu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
