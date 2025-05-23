@@ -27,7 +27,7 @@ announcements:
 Namaste!
 
 I’m **Akash**, a PhD student in Computer Science at **UC Davis**, specializing in **Machine Learning**, **Natural Language Processing**, and **Human-AI Interaction**. My research focuses on:
-- **Foundational Models**
+- **Foundation Models**
 - **Applied Machine Learning, Personalization**
 - **AI Agents**
 - **Low-resource NLP**
