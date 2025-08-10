@@ -36,7 +36,7 @@ I’m **Akash**, a PhD student in Computer Science at **UC Davis**, specializing
 
 Before my PhD, I completed my undergraduate degree at **BITS Pilani**, where I built a strong foundation in ML and NLP. Later, I worked in industry as an Applied ML Engineer, where I developed AI-driven solutions for **PepsiCo**. Co-built Evalu**AI**tor, a multimodal mock interview platform. Optimized financial recommendation systems at **Innoviti**.These experiences have shaped my approach to bridging theoretical research with real-world impact.
 
-Beyond research, I’m an explorer at heart—whether it's riding horses, sketching the world in graphite, or writing & directing short films. I see problem-solving as storytelling, where algorithms, data, and creativity intertwine.
+Beyond research, I’m an explorer at heart - whether it's riding horses, sketching the world in graphite, or writing & directing short films. I see problem-solving as storytelling, where algorithms, data, and creativity intertwine.
 
 <!-- Namaste!
 
