@@ -29,7 +29,7 @@ nav_order: 5
   <div style="text-align: center; width: 200px;">
     <img src="/assets/img/Saee.jpeg" alt="Saee Patil" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
     <strong>Saee Patil</strong><br>
-    Multilingual Foundation Models, Fairness in Low-Resource Settings
+    Multilingual Foundation Models, Fairness in Low-Resource Setting
   </div>
 
   <div style="text-align: center; width: 200px;">
