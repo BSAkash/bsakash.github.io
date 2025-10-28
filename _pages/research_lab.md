@@ -16,70 +16,63 @@ nav_order: 5
 
 <hr>
 
-<h2>Lab Members</h2>
+<h2>Mentees</h2>
 
+<!-- PhD Students -->
+<h3 style="text-align:center; margin-top:40px;">Ph.D. Students</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Andrew.jpeg" alt="Andrew Fojas" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Andrew Fojas</strong><br>
-    AI Agents for Education, Knowledge Tracing, and Adaptive Learning Systems
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Saee.jpeg" alt="Saee Patil" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Saee Patil</strong><br>
-    Multilingual Foundation Models, Fairness in Low-Resource Setting
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Gerard.jpg" alt="Gerard Andearias" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Gerard Andearias</strong><br>
-    Interactive AI Agents, Conversational Benchmarking, and Evaluation Pipelines
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/kevin.jpg" alt="Kevin Xu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Kevin Xu</strong><br>
-    Trustworthy AI, Robustness Testing, and Bias Mitigation Strategies
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Ariana.png" alt="Ariana Smith" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Ariana Smith</strong><br>
-    Multimodal Foundation Models, Commonsense Reasoning Benchmarks
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Winson.jpeg" alt="Winson Yu" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Winson Yu</strong><br>
-    Continual Learning for Applied ML, Personalized Traffic Prediction Models
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/krishna.jpeg" alt="krishna.jpeg" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Krishna Gupta</strong><br>
-    Data-Centric AI for Robustness, Model Compression for Edge Deployment
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Pravalhika.jpeg" alt="Pravalhika.jpeg" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Pravalhika Kurapati</strong><br>
-    Indic NLP, Domain Adaptation in Applied ML
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Quan.png" alt="Quan.jpeg" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Quan Nguyen</strong><br>
-    Benchmarking Foundation Models, Data Quality and Active Learning
-  </div>
-  
-  <div style="text-align: center; width: 200px;">
-    <img src="/assets/img/Teddy.jpeg" alt="Teddy.jpeg" width="150" height="150" style="object-fit: cover; border-radius: 10px;"><br>
-    <strong>Yong Qi Teddy Liu</strong><br>
-    Robustness Evaluation, Edge AI for Medical Applications
-  </div>
+  <div style="text-align: center; width: 200px;"><strong>Shaurya Srivastava</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Jiacheng Ma</strong></div>
 
 </div>
 
+<!-- Masters Students -->
+<h3 style="text-align:center; margin-top:40px;">Master’s Students</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+
+   <div style="text-align: center; width: 200px;"><strong>Ujwal Pratap Krishna(Now AI Engineer at Brado)</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Taher Travadi (Now at Otter AI)</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Kevin Xu</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Winson Yu</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Vikhas Somasundaram Giri</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Devang Borkar</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Sakshi Singh</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Urmil Chandarana</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Hetvi Bhadani</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Aviral Singh</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Shadab Shaikh</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Mahek Sinhal</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Varun Singh</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Pravalhika Kurapati</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Ujwal Pratap Krishna</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Harish Krishnakumar</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Rajaram Manohar Joshi</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Mahima Rudrapati</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Akanksha Kulkarni</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>VVS Aakash Kotha</strong></div>
+</div>
+
+<!-- Undergraduate Students -->
+<h3 style="text-align:center; margin-top:40px;">Undergraduate Students</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+
+  <div style="text-align: center; width: 200px;"><strong>Andrew Fojas</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Ariana Smith</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Teddy Liu</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Gezheng Kang</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Daksh Mamnani</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Isani Vaghela</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Chenfei Zhu</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Gerard Anderias</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Ishant Gandhi</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Krishna Gupta</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Angelina Lai</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Quan Nguyen</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Jayanth Pasupulati</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Clara Ogus</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Saee Patil</strong></div>
+  <div style="text-align: center; width: 200px;"><strong>Vincent Xayasak</strong></div>
+
+</div>
 
