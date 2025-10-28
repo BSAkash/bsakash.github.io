@@ -16,63 +16,87 @@ nav_order: 5
 
 <hr>
 
-<h2>Mentees</h2>
+<h2 style="text-align:center;">Mentees</h2>
 
-<!-- PhD Students -->
-<h3 style="text-align:center; margin-top:40px;">Ph.D. Students</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<!-- Simple, responsive card grid styles -->
+<style>
+  .section { max-width: 1100px; margin: 34px auto; }
+  .section h3 { text-align: center; margin: 0 0 18px; }
+  .members-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    align-items: stretch;
+  }
+  .member-card {
+    text-align: center;
+    padding: 14px 16px;
+    border-radius: 12px;
+    border: 1px solid rgba(127,127,127,.25);
+    background: rgba(127,127,127,.08);
+    backdrop-filter: blur(2px);
+  }
+  .member-card strong { display: inline-block; }
+  /* Light/dark friendly tweaks */
+  @media (prefers-color-scheme: light) {
+    .member-card { background: rgba(0,0,0,.03); border-color: rgba(0,0,0,.08); }
+  }
+</style>
 
-  <div style="text-align: center; width: 200px;"><strong>Shaurya Srivastava</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Jiacheng Ma</strong></div>
-
+<!-- PhD -->
+<div class="section">
+  <h3>Ph.D. Students</h3>
+  <div class="members-grid">
+    <div class="member-card"><strong>Shaurya Srivastava</strong></div>
+    <div class="member-card"><strong>Jiacheng Ma</strong></div>
+  </div>
 </div>
 
-<!-- Masters Students -->
-<h3 style="text-align:center; margin-top:40px;">Master’s Students</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-
-   <div style="text-align: center; width: 200px;"><strong>Ujwal Pratap Krishna(Now AI Engineer at Brado)</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Taher Travadi (Now at Otter AI)</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Kevin Xu</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Winson Yu</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Vikhas Somasundaram Giri</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Devang Borkar</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Sakshi Singh</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Urmil Chandarana</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Hetvi Bhadani</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Aviral Singh</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Shadab Shaikh</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Mahek Sinhal</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Varun Singh</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Pravalhika Kurapati</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Ujwal Pratap Krishna</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Harish Krishnakumar</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Rajaram Manohar Joshi</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Mahima Rudrapati</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Akanksha Kulkarni</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>VVS Aakash Kotha</strong></div>
+<!-- Masters -->
+<div class="section">
+  <h3>Master’s Students</h3>
+  <div class="members-grid">
+    <div class="member-card"><strong>Ujwal Pratap Krishna</strong><div style="font-size:12px; opacity:.8;">Now AI Engineer at Brado</div></div>
+    <div class="member-card"><strong>Taher Travadi</strong><div style="font-size:12px; opacity:.8;">Now at Otter AI</div></div>
+    <div class="member-card"><strong>Harish Krishnakumar</strong></div>
+    <div class="member-card"><strong>Rajaram Manohar Joshi</strong></div>
+    <div class="member-card"><strong>Mahima Rudrapati</strong></div>
+    <div class="member-card"><strong>Akanksha Kulkarni</strong></div>
+    <div class="member-card"><strong>VVS Aakash Kotha</strong></div>
+    <div class="member-card"><strong>Devang Borkar</strong></div>
+    <div class="member-card"><strong>Kevin Xu</strong></div>
+    <div class="member-card"><strong>Vikhas Somasundaram Giri</strong></div>
+    <div class="member-card"><strong>Sakshi Singh</strong></div>
+    <div class="member-card"><strong>Urmil Chandarana</strong></div>
+    <div class="member-card"><strong>Hetvi Bhadani</strong></div>
+    <div class="member-card"><strong>Aviral Singh</strong></div>
+    <div class="member-card"><strong>Shadab Shaikh</strong></div>
+    <div class="member-card"><strong>Mahek Sinhal</strong></div>
+    <div class="member-card"><strong>Varun Singh</strong></div>
+    <div class="member-card"><strong>Pravalhika Kurapati</strong></div>
+  </div>
 </div>
 
-<!-- Undergraduate Students -->
-<h3 style="text-align:center; margin-top:40px;">Undergraduate Students</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-
-  <div style="text-align: center; width: 200px;"><strong>Andrew Fojas</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Ariana Smith</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Teddy Liu</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Gezheng Kang</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Daksh Mamnani</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Isani Vaghela</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Chenfei Zhu</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Gerard Anderias</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Ishant Gandhi</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Krishna Gupta</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Angelina Lai</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Quan Nguyen</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Jayanth Pasupulati</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Clara Ogus</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Saee Patil</strong></div>
-  <div style="text-align: center; width: 200px;"><strong>Vincent Xayasak</strong></div>
-
+<!-- Undergrads -->
+<div class="section">
+  <h3>Undergraduate Students</h3>
+  <div class="members-grid">
+    <div class="member-card"><strong>Saee Patil</strong></div>
+    <div class="member-card"><strong>Gerard Anderias</strong></div>
+    <div class="member-card"><strong>Vincent Xayasak</strong></div>
+    <div class="member-card"><strong>Andrew Fojas</strong></div>
+    <div class="member-card"><strong>Ariana Smith</strong></div>
+    <div class="member-card"><strong>Teddy Liu</strong></div>
+    <div class="member-card"><strong>Gezheng Kang</strong></div>
+    <div class="member-card"><strong>Daksh Mamnani</strong></div>
+    <div class="member-card"><strong>Isani Vaghela</strong></div>
+    <div class="member-card"><strong>Chenfei Zhu</strong></div>
+    <div class="member-card"><strong>Winson Yu</strong></div>
+    <div class="member-card"><strong>Ishant Gandhi</strong></div>
+    <div class="member-card"><strong>Krishna Gupta</strong></div>
+    <div class="member-card"><strong>Angelina Lai</strong></div>
+    <div class="member-card"><strong>Quan Nguyen</strong></div>
+    <div class="member-card"><strong>Jayanth Pasupulati</strong></div>
+    <div class="member-card"><strong>Clara Ogus</strong></div>
+  </div>
 </div>
-
