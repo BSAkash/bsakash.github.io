@@ -176,6 +176,7 @@ exclude:
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
+  - projects.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
