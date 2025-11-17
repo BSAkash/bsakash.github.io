@@ -86,6 +86,7 @@ nav_order: 5
     <div class="member-card"><strong>Vincent Xayasak</strong></div>
     <div class="member-card"><strong>Andrew Fojas</strong></div>
     <div class="member-card"><strong>Ariana Smith</strong></div>
+    <div class="member-card"><strong>Akanksha Bonagiri</strong></div>
     <div class="member-card"><strong>Teddy Liu</strong></div>
     <div class="member-card"><strong>Gezheng Kang</strong></div>
     <div class="member-card"><strong>Daksh Mamnani</strong></div>
