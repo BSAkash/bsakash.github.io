@@ -6,7 +6,7 @@ subtitle: <a href='https://cs.ucdavis.edu/graduate/our-programs/phd-degree'>PhD 
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: my_professional_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> UC Davis, California 95616</p>
