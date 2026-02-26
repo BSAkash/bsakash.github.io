@@ -62,7 +62,7 @@ nav_order: 5
     <div class="member-card"><strong>Rajaram Manohar Joshi</strong></div>
     <div class="member-card"><strong>Mahima Rudrapati</strong></div>
     <div class="member-card"><strong>Akanksha Kulkarni</strong></div>
-    <div class="member-card"><strong>VVS Aakash Kotha</strong></div>
+    <div class="member-card"><strong>VVS Aakash Kotha</strong><div style="font-size:12px; opacity:.8;">Now ML Engineer at Cognitiv</div></div>
     <div class="member-card"><strong>Devang Borkar</strong></div>
     <div class="member-card"><strong>Kevin Xu</strong></div>
     <div class="member-card"><strong>Vikhas Somasundaram Giri</strong></div>
@@ -74,6 +74,7 @@ nav_order: 5
     <div class="member-card"><strong>Mahek Sinhal</strong></div>
     <div class="member-card"><strong>Varun Singh</strong></div>
     <div class="member-card"><strong>Pravalhika Kurapati</strong></div>
+    <div class="member-card"><strong>Adesh Jothi Prasanna</strong></div>
   </div>
 </div>
 
@@ -99,5 +100,20 @@ nav_order: 5
     <div class="member-card"><strong>Quan Nguyen</strong></div>
     <div class="member-card"><strong>Jayanth Pasupulati</strong></div>
     <div class="member-card"><strong>Clara Ogus</strong></div>
+    <div class="member-card"><strong>Shreya Vora</strong></div>
+    <div class="member-card"><strong>Nick Tran</strong></div>
+    <div class="member-card"><strong>Yash Shah</strong></div>
+    <div class="member-card"><strong>Rosie McKusick</strong></div>
+    <div class="member-card"><strong>Madhav Krishna</strong></div>
+    <div class="member-card"><strong>Hritav Solanki</strong></div>
+    <div class="member-card"><strong>Keshav Gupta</strong></div>
+    <div class="member-card"><strong>Dhruv Gupta</strong></div>
+    <div class="member-card"><strong>Shlok Khare</strong></div>
+    <div class="member-card"><strong>Varsha Shivakumar</strong></div>
+    <div class="member-card"><strong>Daivik Bhardwaj</strong></div>
+    <div class="member-card"><strong>Kavin Agarwal</strong></div>
+    <div class="member-card"><strong>Sri Lakshmi</strong></div>
+    <div class="member-card"><strong>Yurun Shi</strong></div>
+    <div class="member-card"><strong>An Nguyen</strong></div>
   </div>
 </div>
