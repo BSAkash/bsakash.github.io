@@ -11,3 +11,20 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Hide theme/dev files from public repo
+README.md
+INSTALL.md
+CUSTOMIZE.md
+FAQ.md
+CONTRIBUTING.md
+CLAUDE.md
+Dockerfile
+docker-compose.yml
+docker-compose-slim.yml
+.pre-commit-config.yaml
+.all-contributorsrc
+package.json
+package-lock.json
+bin/
+lighthouse_results/

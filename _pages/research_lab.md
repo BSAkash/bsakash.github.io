@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="/assets/img/profile_pic.jpeg" alt="Sailendra Akash Bonagiri" width="200" style="border-radius: 50%; object-fit: cover;"><br>
+  <img src="/assets/img/my_professional_photo.png" alt="Sailendra Akash Bonagiri" width="200" style="border-radius: 50%; object-fit: cover;"><br>
   <strong>Sailendra Akash Bonagiri</strong><br>
   Ph.D. in Computer Science<br>
   University of California, Davis
