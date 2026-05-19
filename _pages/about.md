@@ -26,7 +26,7 @@ announcements:
 
 Namaste!
 
-I’m **Akash**, a PhD student in Computer Science at **UC Davis**, specializing in **Machine Learning**, **Natural Language Processing**, and **Human-AI Interaction**. My research focuses on:
+I’m **Akash**, a PhD Candidate in Computer Science at **UC Davis**, specializing in **Machine Learning**, **Natural Language Processing**, and **Human-AI Interaction**. My research focuses on:
 
 - **AI Agents**
 - **Evaluations**
@@ -39,7 +39,7 @@ Beyond research, I’m an explorer at heart - whether it's riding horses, sketch
 
 <!-- Namaste!
 
-I’m Akash, a PhD student in Computer Science at UC Davis, specializing in Machine Learning, Natural Language Processing, and Human-AI Interaction. My research focuses on LLM evaluation, trustworthiness, multimodal reasoning, continual learning, and personalized machine learning, with applications in retrieval-based systems, scalable AI architectures, and low-resource NLP. Recently, I’ve also been exploring multimodal and embodied agents to understand how AI can interact meaningfully across contexts and modalities.
+I’m Akash, a PhD Candidate in Computer Science at UC Davis, specializing in Machine Learning, Natural Language Processing, and Human-AI Interaction. My research focuses on LLM evaluation, trustworthiness, multimodal reasoning, continual learning, and personalized machine learning, with applications in retrieval-based systems, scalable AI architectures, and low-resource NLP. Recently, I’ve also been exploring multimodal and embodied agents to understand how AI can interact meaningfully across contexts and modalities.
 
 Before my PhD, I completed my undergraduate degree at BITS Pilani, where I built a strong foundation in ML and NLP. Later, I worked in industry as an Applied ML Engineer, where I developed AI-driven solutions at PepsiCo, co-built EvaluAItor, a multimodal mock interview platform, and optimized financial recommendation systems at Innoviti. These experiences shaped my approach to bridging theoretical research with real-world impact.
 
