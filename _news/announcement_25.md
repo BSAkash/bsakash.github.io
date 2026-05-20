@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **ICML 2026** — [*STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems*](https://arxiv.org/abs/2605.02122), presenting a framework for reliable AI evaluation under annotator variability and disagreement.
+Paper accepted at **ICML 2026** — [STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems](https://arxiv.org/abs/2605.02122), presenting a framework for reliable AI evaluation under annotator variability and disagreement.
