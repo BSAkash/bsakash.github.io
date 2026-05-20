@@ -28,3 +28,14 @@ package.json
 package-lock.json
 bin/
 lighthouse_results/
+
+# Dev/tooling files not needed for deployment
+readme_preview/
+.devcontainer/
+.git-blame-ignore-revs
+.gitattributes
+.lycheeignore
+.prettierignore
+.prettierrc
+.dockerignore
+purgecss.config.js
