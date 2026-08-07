@@ -34,8 +34,4 @@ readme_preview/
 .devcontainer/
 .git-blame-ignore-revs
 .gitattributes
-.lycheeignore
-.prettierignore
-.prettierrc
 .dockerignore
-purgecss.config.js
