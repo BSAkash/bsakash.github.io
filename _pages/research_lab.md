@@ -115,6 +115,6 @@ nav_order: 5
     <div class="member-card"><strong>Sri Lakshmi</strong></div>
     <div class="member-card"><strong>Yurun Shi</strong></div>
     <div class="member-card"><strong>An Nguyen</strong></div>
-    <div class="member-card"><strong>Avtej Gundelli</strong></div>
+    <div class="member-card"><strong>Navtej Gundelli</strong></div>
   </div>
 </div>
