@@ -59,8 +59,8 @@ nav_order: 5
     <div class="member-card"><strong>Ujwal Pratap Krishna</strong><div style="font-size:12px; opacity:.8;">Now AI Engineer at Brado</div></div>
     <div class="member-card"><strong>Taher Travadi</strong><div style="font-size:12px; opacity:.8;">Now at Otter AI</div></div>
     <div class="member-card"><strong>VVS Aakash Kotha</strong><div style="font-size:12px; opacity:.8;">Now ML Engineer at Cognitiv</div></div>
-    <div class="member-card"><strong>Harish Krishnakumar</strong></div>
-    <div class="member-card"><strong>Rajaram Manohar Joshi</strong></div>
+    <div class="member-card"><strong>Harish Krishnakumar</strong><div style="font-size:12px; opacity:.8;">Now at Apple</div></div>
+    <div class="member-card"><strong>Rajaram Manohar Joshi</strong><div style="font-size:12px; opacity:.8;">Now at Microsoft</div></div>
     <div class="member-card"><strong>Mahima Rudrapati</strong></div>
     <div class="member-card"><strong>Akanksha Kulkarni</strong></div>
     <div class="member-card"><strong>Devang Borkar</strong></div>
@@ -115,5 +115,6 @@ nav_order: 5
     <div class="member-card"><strong>Sri Lakshmi</strong></div>
     <div class="member-card"><strong>Yurun Shi</strong></div>
     <div class="member-card"><strong>An Nguyen</strong></div>
+    <div class="member-card"><strong>Avtej Gundelli</strong></div>
   </div>
 </div>
